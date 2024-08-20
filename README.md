@@ -1,7 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm Brandan! <br/> <a href="https://www.linkedin.com/in/brandan-thomas-15b109191/">Cybersecurity Professional</a>
+
+<h2>Cybersecurity Projects:</h2>
+
+- <b>Active Directory Home Lab </b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> Certifications: <h2>
+  
+- </b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8HB2Q3I6TA9T">Google Cybersecurity Certificate</a>
+- <b> FEMA IS-100.C Certification
+
+
+
+
+
+
+
 
 <!--
-**bthomas1819/bthomas1819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
